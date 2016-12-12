@@ -1,0 +1,1 @@
+printName(getName({ name: "Adam" }))
