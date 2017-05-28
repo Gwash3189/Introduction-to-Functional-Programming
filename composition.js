@@ -1,1 +1,0 @@
-printName(getName({ name: "Adam" }))
